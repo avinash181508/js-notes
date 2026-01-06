@@ -1,3 +1,34 @@
+
+//// Question
+Arrays
+
+Creation & access
+
+Methods:
+
+map
+
+filter
+
+reduce
+
+forEach
+
+find, some, every
+
+Spread operator (...)
+
+Array destructuring
+
+Objects
+
+
+
+
+
+////Answer
+
+
 Sure! Let me explain each of these array-related concepts in detail:
 
 ### 1. **Array Creation & Access**
